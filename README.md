@@ -1,2 +1,2 @@
 # Html ödevi 
- * İlk html ödevidir. 
+ * İlk html sitem.
